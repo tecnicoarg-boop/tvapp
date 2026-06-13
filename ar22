@@ -232,8 +232,8 @@ https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j_720p/index.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://138.59.227.20:8000/play/a08r/index.m3u8
 
-##EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine", Ciudad Magazine
-http://181.13.252.102:8000/play/a02h/index.m3u8
+##EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine",Ciudad Magazine 🇦🇷
+http://181.209.96.155:10000/play/a12f/index.m3u8
 
 ##EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine",Ciudad Magazine 🇦🇷 (Op. 1)
 #http://45.5.151.62:8000/play/a01d/index.m3u8
