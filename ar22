@@ -236,8 +236,7 @@ http://138.59.227.20:8000/play/a08r/index.m3u8
 http://181.209.96.155:10000/play/a12f/index.m3u8
 
 ##EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Cine",Ciudad Magazine 🇦🇷 (Op. 1)
-#http://45.5.151.62:8000/play/a01d/index.m3u8
-
+#http://138.59.227.20:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest?cb=20210414152347&path-prefix=es" group-title="Deportes mx",Claro Sports 🇲🇽 (Op. 1)
 http://45.5.119.43:4000/play/a024/index.m3u8
 
